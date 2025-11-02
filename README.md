@@ -16,3 +16,12 @@ Appointment Payment and Completion Patterns – to improve financial tracking.
 
 
 Through the use of CTEs, aggregations, filtering, and multi-table JOINs, I was able to transform raw hospital data into clear insights that can guide decision-making and resource allocation in a healthcare setting.
+
+
+📧 Email: Chainzmubarak2003@gmail.com
+
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+upwork: https://www.upwork.com/freelancers/~01c100bccc1a9bf5c9
+
+twitter: https://x.com/Chainzzee
